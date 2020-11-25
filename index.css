@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  margin-top: 10;
+}
+.item {
+  font-size: 14;
+  color: rgba(0,0,0,0.85);
+}

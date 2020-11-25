@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "command-line-args": "^5.1.1"
+  }
+}
